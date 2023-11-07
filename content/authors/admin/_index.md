@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Jiazheng Li
+title: Jia-Zheng Li
 
 # Name pronunciation (optional)
 name_pronunciation: ' '
