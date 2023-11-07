@@ -9,7 +9,7 @@ date: '2023-10-01'
 publishDate: '2023-11-07T13:52:39.614228Z'
 publication_types:
 - article-journal
-publication: '*Physical Review B*'
+publication: '*Physical Review B* (Editors' Suggestion)'
 doi: 10.1103/PhysRevB.108.155418
 abstract: 'We present a systematic topological theory of the scattering matrix and
   its submatrices, focusing on the singular values and vectors. We study the topological
