@@ -3,7 +3,7 @@ title: Spin-Dependent Gain and Loss in Photonic Quantum Spin Hall Systems
 authors:
 - Tian-Rui Liu
 - Kai Bai
-- Jia-Zheng Li
+- **Jia-Zheng Li**
 - Liang Fang
 - Duanduan Wan
 - Meng Xiao
