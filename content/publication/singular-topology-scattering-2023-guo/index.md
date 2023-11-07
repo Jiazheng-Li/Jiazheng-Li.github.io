@@ -2,7 +2,7 @@
 title: Singular Topology of Scattering Matrices
 authors:
 - Cheng Guo*
-- *Jiazheng Li*
+- Jiazheng Li
 - Meng Xiao
 - Shanhui Fan*
 date: '2023-10-01'

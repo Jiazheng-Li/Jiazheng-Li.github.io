@@ -2,7 +2,7 @@
 title: Nonlinear Exceptional Points with a Complete Basis in Dynamics
 authors:
 - Kai Bai
-- *Jia-Zheng Li*
+- Jia-Zheng Li
 - Tian-Rui Liu
 - Liang Fang
 - Duanduan Wan
