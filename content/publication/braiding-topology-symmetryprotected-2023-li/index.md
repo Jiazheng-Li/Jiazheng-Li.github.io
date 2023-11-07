@@ -2,7 +2,7 @@
 title: Braiding Topology of Symmetry-Protected Degeneracy Points in Non-Hermitian
   Systems
 authors:
-- **Jia-Zheng Li**
+- *Jia-Zheng Li*
 - Kai Bai
 - Cheng Guo
 - Tian-Rui Liu
