@@ -118,10 +118,10 @@ sections:
           company: 'Advisor: Prof. Mang Feng of CAS'
           company_url: ''
           location: Wuhan
-          date_start: '2019-3-01'
-          date_end: '2019-8-01'
+          date_start: '2019-03-01'
+          date_end: '2019-08-01'
           description: |2-
               * Trapped Ion Systems as an Approach to Explore Quantum Physics 
     design:
-      columns: '3'
+      columns: '2'
 ---
