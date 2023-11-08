@@ -97,7 +97,7 @@ sections:
           company_url: ''
           location: Wuhan
           date_start: '2021-09-01'
-          date_end: ' '
+          date_end: ''
           description: |2-
               * Braid Topology of Symmetry-Protected Degeneracy Points in Non-Hermitian Systems
               *	The Interplay between Nonlinearity and Topology
@@ -112,7 +112,7 @@ sections:
           location: Wuhan
           date_start: '2020-09-01'
           date_end: '2021-06-01'
-          description: |2-
+          description:
               * Topological Tensor Monopole Using a Synthetic Dimension
         - title: Undergraduate Research Assistant in APM of the Chinese Academy of Sciences (CAS)
           company: 'Advisor: Prof. Mang Feng of CAS'
@@ -120,7 +120,7 @@ sections:
           location: Wuhan
           date_start: '2019-3-01'
           date_end: '2019-8-01'
-          description: |2-
+          description:
               * Trapped Ion Systems as an Approach to Explore Quantum Physics 
     design:
       columns: '2'
