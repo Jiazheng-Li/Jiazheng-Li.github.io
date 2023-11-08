@@ -93,7 +93,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Graduate Student Researcher in Wuhan University
-          company: 'Advisor: Prof. Meng Xiao of WHU, Dr. Kai Bai of WHU, Dr. Cheng Guo of Stanford and Prof. Fengcheng Wu of WHU'
+          company: 'Advisor: Prof. Meng Xiao @ WHU, Dr. Kai Bai @ WHU, Dr. Cheng Guo @ Stanford and Prof. Fengcheng Wu @ WHU'
           company_url: ''
           location: Wuhan
           date_start: '2021-09-01'
@@ -107,7 +107,7 @@ sections:
               * Singular Topology of Scattering Matrices
               * Scattering Theory: A Lens to Understand Non-Hermitian Systems
         - title: Undergraduate Research Assistant in Wuhan University
-          company: 'Advisor: Prof. Meng Xiao of WHU'
+          company: 'Advisor: Prof. Meng Xiao @ WHU'
           company_url: ''
           location: Wuhan
           date_start: '2020-09-01'
@@ -115,7 +115,7 @@ sections:
           description: |2-
               * Topological Tensor Monopole Using a Synthetic Dimension
         - title: Undergraduate Research Assistant in APM of the Chinese Academy of Sciences (CAS)
-          company: 'Advisor: Prof. Mang Feng of CAS'
+          company: 'Advisor: Prof. Mang Feng @ CAS'
           company_url: ''
           location: Wuhan
           date_start: '2019-03-01'
