@@ -67,16 +67,6 @@ sections:
     design:
       columns: '2'
       view: citation
-  - block: collection
-    id: talks
-    content:
-      title: Recent & Upcoming Talks
-      filters:
-        folders:
-          - event
-    design:
-      columns: '2'
-      view: compact
   - block: tag_cloud
     content:
       title: Popular Topics
@@ -108,7 +98,7 @@ sections:
           location: Wuhan
           date_start: '2023-02-01'
           date_end: '2023-09-01'
-          description: |2-
+          description: 
               * Delved into the braid topology of symmetry-protected degeneracy points in Non-Hermitian systems utilizing homotopy theory, which led to the development of a framework for classifying these singularities
               *	Overcame the challenge posed by the reduced codimension of degeneracy points
               *	Revealed counterintuitive topological phenomena through discovery of path-dependent annihilation of degeneracy points
