@@ -92,24 +92,36 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Braid Topology of Symmetry-Protected Degeneracy Points in Non-Hermitian Systems
-          company: 'Advisor: Prof. Meng Xiao, WHU'
+        - title: Graduate Student Researcher in Wuhan University
+          company: 'Advisor: Prof. Meng Xiao @WHU, Dr. Kai Bai @WHU, Dr. Cheng Guo @Stanford and Prof. Fengcheng Wu @WHU'
           company_url: ''
           location: Wuhan
-          date_start: '2023-02-01'
-          date_end: '2023-09-01'
+          date_start: '2021-09-01'
+          date_end: ' '
           description: |2-
-              * Delved into the braid topology of symmetry-protected degeneracy points in Non-Hermitian systems utilizing homotopy theory, which led to the development of a framework for classifying these singularities
-              *	Overcame the challenge posed by the reduced codimension of degeneracy points
-              *	Revealed counterintuitive topological phenomena through discovery of path-dependent annihilation of degeneracy points
-        - title: Professor of Semiconductor Physics
-          company: University X
+              * Braid Topology of Symmetry-Protected Degeneracy Points in Non-Hermitian Systems
+              *	The Interplay between Nonlinearity and Topology
+              *	The Classification of AIII Class Higher-Order Topological Insulator
+              * Nonlinear Exceptional Points in Non-Hermitian Systems
+              * Higher-order Topological Insulators in Photonic Systems
+              * Singular Topology of Scattering Matrices
+              * Scattering Theory: A Lens to Understand Non-Hermitian Systems
+        - title: Undergraduate Research Assistant in Wuhan University
+          company: 'Advisor: Prof. Meng Xiao @WHU'
           company_url: ''
-          company_logo: org-x
-          location: California
-          date_start: '2016-01-01'
-          date_end: '2020-12-31'
-          description: Taught electronic engineering and researched semiconductor physics.
+          location: Wuhan
+          date_start: '2020-09-01'
+          date_end: '2021-06-01'
+          description: |2-
+              * Topological Tensor Monopole Using a Synthetic Dimension
+        - title: Undergraduate Research Assistant in APM of the Chinese Academy of Sciences (CAS)
+          company: 'Advisor: Prof. Mang Feng @CAS'
+          company_url: ''
+          location: Wuhan
+          date_start: '2019-3-01'
+          date_end: '2019-8-01'
+          description: |2-
+              * Trapped Ion Systems as an Approach to Explore Quantum Physics 
     design:
       columns: '2'
 ---
