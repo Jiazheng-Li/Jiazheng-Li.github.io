@@ -15,7 +15,15 @@ abstract: The orbital degree of freedom (ODoF), which has a significant impact o
   higher-order topological insulator can lead to exploring a wide range of novel topological
   phases involving the ODoF.
 tags:
-- abbr_iso4
+- Topology
+- The orbital Degree
+- Photonics Systems
+featured: true
+url_pdf: 'https://journals.aps.org/prb/pdf/10.1103/PhysRevB.108.155418'
+image:
+  caption: 'Image credit: [**Unsplash**](featured.png)'
+  focal_point: ''
+  preview_only: false
 links:
 - name: URL
   url: https://www.nature.com/articles/s41377-023-01152-z

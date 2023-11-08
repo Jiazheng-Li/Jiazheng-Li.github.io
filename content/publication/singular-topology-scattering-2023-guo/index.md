@@ -29,6 +29,17 @@ abstract: 'We present a systematic topological theory of the scattering matrix a
   for multichannel background-free sensing. These findings significantly advance our
   understanding of scattering phenomena and have important implications for the development
   of novel optical devices.'
+tags:
+- Condensed Matter - Mesoscale and Nanoscale Physics
+- Scattering Thoery
+- Topology
+- Photonics Systems
+featured: true
+url_pdf: 'https://journals.aps.org/prb/pdf/10.1103/PhysRevB.108.155418'
+image:
+  caption: 'Image credit: [**Unsplash**](featured.png)'
+  focal_point: ''
+  preview_only: false
 links:
 - name: URL
   url: https://link.aps.org/doi/10.1103/PhysRevB.108.155418

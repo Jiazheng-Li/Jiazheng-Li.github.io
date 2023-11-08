@@ -27,6 +27,16 @@ abstract: Exceptional points (EPs) are special spectral singularities at which t
   at conventional EPs. Consequently, the amplification of noise, which diverges at
   other EPs, converges at our NEP5. Our finding transforms the understanding of EPs
   and shows potential for miniaturizing various key applications operating near EPs.
+tags:
+- Condensed Matter - Mesoscale and Nanoscale Physics
+- Quantum Physics
+- Nonlinearity
+featured: true
+url_pdf: 'https://journals.aps.org/prl/pdf/10.1103/PhysRevLett.130.266901'
+image:
+  caption: 'Image credit: [**Unsplash**](featured.png)'
+  focal_point: ''
+  preview_only: false
 links:
 - name: URL
   url: https://link.aps.org/doi/10.1103/PhysRevLett.130.266901
