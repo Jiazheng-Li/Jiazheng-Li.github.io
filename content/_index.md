@@ -93,7 +93,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Braid Topology of Symmetry-Protected Degeneracy Points in Non-Hermitian Systems
-          company: 'Advisor: Prof. Meng Xiao', WHU
+          company: 'Advisor: Prof. Meng Xiao, WHU'
           company_url: ''
           location: Wuhan
           date_start: '2023-02-01'
