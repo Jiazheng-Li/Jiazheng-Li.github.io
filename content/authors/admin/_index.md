@@ -29,8 +29,8 @@ bio: My research interests.
 
 # Interests to show in About widget
 interests:
-  - Topological band theory
-  - Floquet and non-Hermitian physics
+  - Topological Band Theory
+  - Floquet and non-Hermitian Physics
   - The Interplay between Nonlinearity and Topology
   - Emergent Phenomena in Condensed Matter Systems
 
