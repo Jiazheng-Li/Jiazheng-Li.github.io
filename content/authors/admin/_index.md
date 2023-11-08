@@ -57,13 +57,11 @@ skills:
       - name: Mathematica
         description: ''
         percent: 100
-        icon: circle
-        icon_pack: fab
-      - name: SQL
+        icon: mathematica
+      - name: Julia
         description: ''
         percent: 40
-        icon: database
-        icon_pack: fas
+        icon: julia
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
