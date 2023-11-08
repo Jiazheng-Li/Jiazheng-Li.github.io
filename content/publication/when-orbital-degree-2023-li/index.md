@@ -19,7 +19,7 @@ tags:
 - The orbital Degree
 - Photonics Systems
 featured: true
-url_pdf: 'https://journals.aps.org/prb/pdf/10.1103/PhysRevB.108.155418'
+url_pdf: 'https://www.nature.com/articles/s41377-023-01152-z.pdf'
 image:
   caption: 'Image credit: [**Unsplash**](featured.png)'
   focal_point: ''
