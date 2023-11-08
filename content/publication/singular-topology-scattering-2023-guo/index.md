@@ -1,10 +1,10 @@
 ---
 title: Singular Topology of Scattering Matrices
 authors:
-- Cheng Guo
+- Cheng Guo*
 - admin
 - Meng Xiao
-- Shanhui Fan
+- Shanhui Fan*
 date: '2023-10-01'
 publishDate: '2023-11-07T13:52:39.614228Z'
 publication_types:
