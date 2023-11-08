@@ -123,5 +123,5 @@ sections:
           description: |2-
               * Trapped Ion Systems as an Approach to Explore Quantum Physics 
     design:
-      columns: '2'
+      columns: '3'
 ---
