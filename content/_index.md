@@ -114,6 +114,14 @@ sections:
           date_end: '2021-06-01'
           description: |2-
               * Topological Tensor Monopole Using a Synthetic Dimension
+        - title: Undergraduate Research Assistant in APM of the Chinese Academy of Sciences (CAS)
+          company: 'Advisor: Prof. Mang Feng of CAS'
+          company_url: ''
+          location: Wuhan
+          date_start: '2019-3-01'
+          date_end: '2019-8-01'
+          description: |2-
+              * Trapped Ion Systems as an Approach to Explore Quantum Physics 
     design:
       columns: '2'
 ---
