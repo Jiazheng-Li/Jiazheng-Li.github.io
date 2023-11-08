@@ -73,15 +73,15 @@ skills:
         percent: 60
         icon: person-hiking
         icon_pack: fas
-      - name: Cats
+      - name: Skiing
         description: ''
         percent: 100
-        icon: cat
+        icon: person-skiing
         icon_pack: fas
-      - name: Photography
+      - name: Football
         description: ''
         percent: 80
-        icon: camera-retro
+        icon: futbol
         icon_pack: fas
 
 # Social/Academic Networking
@@ -98,6 +98,9 @@ social:
   - icon: github
     icon_pack: fab
     link: https://github.com/Jiazheng-Li
+  - icon: orcid
+    icon_pack: ai
+    link: https://orcid.org/0000-0001-7384-2506
   # Link to a PDF of your resume/CV.
   # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.yaml`,
   # and uncomment the lines below.
@@ -109,5 +112,5 @@ social:
 highlight_name: true
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am a physics master candidate at Wuhan University. I am working on condensed matter physics under the supervise of [Prof. Meng Xiao](http://jszy.whu.edu.cn/mengxiao/en/index.htm), [Dr. Cheng Guo](https://cguo.org/), [Prof. FengCheng Wu](https://wufcheng.github.io/). My interests lie in studying emergent, topological, nonlinear phenomena in condensed matter systems and their potential applications analytically and numerically. I enjoy skiing, hiking, and reading.
 {style="text-align: justify;"}
