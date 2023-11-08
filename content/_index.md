@@ -102,19 +102,16 @@ sections:
       #   Leave `date_end` empty if it's your current employer.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: CEO
-          company: GenCoin
+        - title: Braid Topology of Symmetry-Protected Degeneracy Points in Non-Hermitian Systems
+          company: 'Advisor: Prof. Meng Xiao', WHU
           company_url: ''
-          company_logo: org-gc
-          location: California
-          date_start: '2021-01-01'
-          date_end: ''
+          location: Wuhan
+          date_start: '2023-02-01'
+          date_end: '2023-09-01'
           description: |2-
-              Responsibilities include:
-
-              * Analysing
-              * Modelling
-              * Deploying
+              * Delved into the braid topology of symmetry-protected degeneracy points in Non-Hermitian systems utilizing homotopy theory, which led to the development of a framework for classifying these singularities
+              *	Overcame the challenge posed by the reduced codimension of degeneracy points
+              *	Revealed counterintuitive topological phenomena through discovery of path-dependent annihilation of degeneracy points
         - title: Professor of Semiconductor Physics
           company: University X
           company_url: ''
