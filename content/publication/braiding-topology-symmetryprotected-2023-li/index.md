@@ -1,5 +1,5 @@
 ---
-title: Braiding Topology of Symmetry-Protected Degeneracy Points in Non-Hermitian
+title: Braid Topology of Symmetry-Protected Degeneracy Points in Non-Hermitian
   Systems
 authors:
 - admin
@@ -15,7 +15,7 @@ publication_types:
 - manuscript
 publication: '*arXiv*'
 doi: 10.48550/arXiv.2309.16152
-abstract: The braiding topology in non-Hermitian systems, contributed by degeneracy points in the absence of symmetry, has sparked intense recent interest in exploring complex energy braiding in different disciplines. However, the interplay between this braiding topology and symmetries, especially those rendering the original framework inapplicable, remains elusive. Here, utilizing algebraic topology, we build the framework for the braiding topology of symmetry-protected degeneracy points, overcoming the challenges posed by the reduced codimension of these degeneracy points. The non-Abelian braiding topology is demonstrated with full-wave simulations in circuits. Our work empowers researchers across fields to harness symmetry and braid topology in non-Hermitian systems.
+abstract: Degeneracy points in non-Hermitian systems are of great interest. While a homotopic framework exists for understanding their behavior in the absence of symmetry, it does not apply to symmetry-protected degeneracy points with reduced codimension. In this work, utilizing algebraic topology, we provide a systematic classification of these symmetry-protected degenerate points and investigate the braid conservation rule followed by them. Using a model Hamiltonian and circuit simulation, we discover that, contrary to simple annihilation, pairwise created symmetry-protected degeneracy points merge into a higher order degeneracy point, which goes beyond the abelian picture. Our findings empower researchers across diverse fields to uncover new phenomena and applications harnessing symmetry-protected non-Hermitian degeneracy points.
 tags:
 - Condensed Matter 
 - Quantum Physics
