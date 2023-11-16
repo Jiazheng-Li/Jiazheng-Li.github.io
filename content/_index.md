@@ -67,7 +67,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: Graduate Student Researcher in Wuhan University
-          company: 'Advisor: Prof. Meng Xiao @ WHU, Dr. Kai Bai @ WHU, Dr. Cheng Guo @ Stanford and Prof. Fengcheng Wu @ WHU'
+          company: 'Advisor: Prof. Meng Xiao @ WHU, Dr. Cheng Guo @ Stanford and Prof. Fengcheng Wu @ WHU'
           company_url: ''
           location: Wuhan
           date_start: '2021-09-01'
