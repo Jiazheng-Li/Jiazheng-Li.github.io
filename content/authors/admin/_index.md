@@ -111,5 +111,5 @@ social:
 highlight_name: true
 ---
 
-I am a physics master's candidate at Wuhan University. I am working on condensed matter physics under the supervision of [Prof. Meng Xiao](http://jszy.whu.edu.cn/mengxiao/en/index.htm), [Dr. Cheng Guo](https://cguo.org/). My interests lie in studying emergent, topological, and nonlinear phenomena in condensed matter systems (also in photonics systems) as well as their potential applications by analytical and numerical methods. I enjoy skiing, hiking, and reading.
+I am a physics master's candidate at Wuhan University. I am working on condensed matter physics under the supervision of [Prof. Meng Xiao](http://jszy.whu.edu.cn/mengxiao/en/index.htm), [Dr. Cheng Guo](https://cguo.org/) and [Prof. FengCheng Wu](https://wufcheng.github.io/). My interests lie in studying emergent, topological, and nonlinear phenomena in condensed matter systems (also in photonics systems) as well as their potential applications by analytical and numerical methods. I enjoy skiing, hiking, and reading.
 {style="text-align: justify;"}
