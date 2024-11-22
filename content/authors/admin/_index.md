@@ -17,12 +17,12 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: Master's student in Condensed Matter Physics
+role: Phd student in Physics
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Wuhan University
-    url: https://www.whu.edu.cn/
+  - name: University of Colorado, Boulder
+    url: https://www.colorado.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests.
@@ -38,9 +38,12 @@ interests:
 # Education to show in About widget
 education:
   courses:
+    - course: PhD in Physics
+      institution: University of colorado,Boulder
+      year: 2024 
     - course: MSc in Condensed Matter Physics
       institution: Wuhan University
-      year: 2024 (expected)
+      year: 2024 
     - course: BSc in Physics
       institution: Wuhan University
       year: 2021
@@ -72,10 +75,10 @@ skills:
         percent: 60
         icon: person-hiking
         icon_pack: fas
-      - name: Skiing
+      - name: Snowboarding
         description: ''
         percent: 100
-        icon: person-skiing
+        icon: person-snowboarding
         icon_pack: fas
       - name: Football
         description: ''
@@ -90,7 +93,7 @@ skills:
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'mailto:ljz@whu.edu.cn'
+    link: 'mailto:jiazheng.li@colorado.edu'
   - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
     icon_pack: fas
     link: https://scholar.google.com/citations?user=7Z_ZHu4AAAAJ&hl=en
@@ -111,5 +114,5 @@ social:
 highlight_name: true
 ---
 
-I am a physics master's candidate at Wuhan University. I am working on condensed matter physics under the supervision of [Prof. Meng Xiao](http://jszy.whu.edu.cn/mengxiao/en/index.htm), [Dr. Cheng Guo](https://cguo.org/) and [Prof. FengCheng Wu](https://wufcheng.github.io/). My interests lie in studying emergent, topological, and nonlinear phenomena in condensed matter systems (also in photonics systems) as well as their potential applications by analytical and numerical methods. I enjoy skiing, hiking, and reading.
+I am a PhD student studying Physics at University of Colorado, Boulder. I previous worked on condensed matter physics under the supervision of [Prof. Meng Xiao](http://jszy.whu.edu.cn/mengxiao/en/index.htm) and [Prof. FengCheng Wu](https://wufcheng.github.io/). My interests lie in studying emergent, topological, and nonlinear phenomena in condensed matter systems (also in photonics systems) as well as their potential applications by analytical and numerical methods. I enjoy snowboarding, hiking, and reading.
 {style="text-align: justify;"}
