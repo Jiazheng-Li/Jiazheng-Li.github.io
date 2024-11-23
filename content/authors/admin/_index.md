@@ -40,7 +40,7 @@ education:
   courses:
     - course: PhD in Physics
       institution: University of colorado,Boulder
-      year: 2024 
+      year: 2028 (expected)
     - course: MSc in Condensed Matter Physics
       institution: Wuhan University
       year: 2024 
